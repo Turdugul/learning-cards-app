@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/learning-cards-app/static/css/main.fa35233c.css",
+    "main.js": "/learning-cards-app/static/js/main.b22e6203.js",
+    "index.html": "/learning-cards-app/index.html",
+    "main.fa35233c.css.map": "/learning-cards-app/static/css/main.fa35233c.css.map",
+    "main.b22e6203.js.map": "/learning-cards-app/static/js/main.b22e6203.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa35233c.css",
+    "static/js/main.b22e6203.js"
+  ]
+}
